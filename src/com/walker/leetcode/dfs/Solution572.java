@@ -7,6 +7,7 @@ import com.walker.leetcode.TreeNode;
  * @author: Walker
  * @create: 2021-06-17 00:10
  * @difficulty: Eazy
+ * @link: https://leetcode-cn.com/problems/subtree-of-another-tree/
  **/
 public class Solution572 {
     /*解法一*/
